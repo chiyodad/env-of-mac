@@ -19,7 +19,7 @@
 <img src='https://raw.github.com/doortts/env-of-mac/master/media/Trackpad_setting01.jpg'>
 
 ## Function key를 일반키로 설정
-구식 사용자라...
+구식 개발자라 단축키 하나가 아쉬운 상황인지라..  볼륨 키우고 백라이트 조절 등이 필요 할때는 fn 키랑 조합으로 사용하면 되니까 무방. 
 	
 	설정 -> 키보드 -> 키보드 : '모든 F1, F2 등의  키를 표준 기능 키로 사용' 선택
 
