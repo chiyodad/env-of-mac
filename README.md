@@ -95,6 +95,12 @@ TextMate를 오픈소스화 시킬 정도의 파급력을 가진 최고의 에�
 ## chrome 설치
 워낙 extention들이 좋은게 많아서.. 
 
+추천 extention
+- CrxMouse : Mac 크롬을 지원하는 마우스 제스처
+- TweetDeck : twitter와 facebook을 동시에 지원
+- Vimium : h,j,k,l
+- Neater Bookmarks : 내 bookmark 간단 검색
+
 [https://www.google.com/intl/en/chrome/browser/](https://www.google.com/intl/en/chrome/browser/)
 
 ## brew 설치 
