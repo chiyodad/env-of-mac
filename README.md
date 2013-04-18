@@ -68,6 +68,12 @@
 ## appstore 에서 기존 구매 앱들 설치
 이미 산거라도 쓸데 없는건 설치하지 않기!
 
+- PopClip : text 선택시 이런저런 사용가능한 action 이 popup으로 뜸
+- Yoink : 임시 스택 of everything
+- Caffeine : 화면이 꺼지지 않게 유지
+- Wunderlist : 할일 관리
+- Monosnap : 캡처도구
+
 ## BTT (Better Touch Tools) 설치
 [http://blog.boastr.net/](http://blog.boastr.net/)
 
