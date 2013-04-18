@@ -14,7 +14,9 @@
 
 
 ## 입맛에 맛게 트랙패드 조정
-아.. 독특한 나의 입맛이란..
+아.. 이 올드한 나의 입맛이란..
+
+<img src='https://raw.github.com/doortts/env-of-mac/master/media/Trackpad_setting01.jpg'>
 
 ## Function key를 일반키로 설정
 구식 사용자라...
