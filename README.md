@@ -38,7 +38,7 @@
 	defaults write -g ApplePressAndHoldEnabled -bool false 
 
 
-## spotlight 단추키 변경
+## spotlight 단축키 변경
 개인의 취향. 개발자 입장에서는 각종 기존 단축키들과 충돌나는게 아까워서.
 
 	키보드 -> 키보드 단축키 -> spotlight 를 F12로 변경
