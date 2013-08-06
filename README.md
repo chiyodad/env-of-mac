@@ -164,9 +164,9 @@ XCode를 설치해도 되지만 XCode 안쓰는데도 2기가 짜리를 설치�
 [http://142.23.40.11/big/X/xcode461_cltools_10_86938245a.dmg](http://142.23.40.11/big/X/xcode461_cltools_10_86938245a.dmg)
 
 ## retina twitter app
-레니타 맥 유저 한정
+~~레니타 맥 유저 한정~~ 이젠 공식앱도 retina 지원함
 
-[https://twitter.com/edincik/status/271993729760509952](https://twitter.com/edincik/status/271993729760509952)
+~~[https://twitter.com/edincik/status/271993729760509952](https://twitter.com/edincik/status/271993729760509952)~~
 
 ## oh my zsh 설치
 shell이라면 zsh !! bash 안녕~! (but 저사양 맥북에서는 때때로 느려질때도..)
