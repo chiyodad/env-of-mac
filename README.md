@@ -148,6 +148,7 @@ App Launcher (no gomin, go install)
 
 ## Bartender 설치 (유료)
 메뉴바 아이콘이 길어지는 걸 해결
+http://www.macbartender.com
 
 ## iterm2 설치
 기본 터미널보다 우수함. 
@@ -160,8 +161,6 @@ App Launcher (no gomin, go install)
 공식 이름은 XCode(Apple) Command Line Tools
 
 XCode를 설치해도 되지만 XCode 안쓰는데도 2기가 짜리를 설치할 필요가 없으니 gcc/git 등의 command tool만 설치!
-
-[http://142.23.40.11/big/X/xcode461_cltools_10_86938245a.dmg](http://142.23.40.11/big/X/xcode461_cltools_10_86938245a.dmg)
 
 
 ## oh my zsh 설치
