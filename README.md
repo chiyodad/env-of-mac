@@ -79,16 +79,21 @@
 
 	three finger swipe up/down -> command + up/down 으로 설정
 
+## Asepsis 설치 
+mac에서 finder로 이동시 만들어지는 .DS_Store파일 생성을 막아준다
+
+[http://asepsis.binaryage.com](http://asepsis.binaryage.com)
+
+
 ## Evernote 설치
 [https://evernote.com/](https://evernote.com/)
 
 ## MS intellipoint 설치 
 why? MS 마우스 사용자들에게 감도를 높여줌
-	
 	설정 -> Microsoft Mouse -> pointer options -> IntelliPoint pointer Speed
 
-## sublime text 2 설치
-[http://www.sublimetext.com/2](http://www.sublimetext.com/2)
+## sublime text 3 설치
+[http://www.sublimetext.com/3](http://www.sublimetext.com/2)
 
 TextMate를 오픈소스화 시킬 정도의 파급력을 가진 최고의 에디팅 툴
 
@@ -106,7 +111,7 @@ TextMate를 오픈소스화 시킬 정도의 파급력을 가진 최고의 에�
 ## brew 설치 
 Mac용 Command installer. 앞으로는 커맨드로 왠만한 도구들을 설치
 
-	ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ### brew를 통해	 git 설치
 
@@ -114,33 +119,28 @@ Mac용 Command installer. 앞으로는 커맨드로 왠만한 도구들을 설�
 
 참고: [http://mxcl.github.io/homebrew/](http://mxcl.github.io/homebrew/)
 
-## KeyRemap4MacBook 설치
+## Karabiner 설치
 why? 오른쪽 command를 한영전환으로 변경. 키 반복입력을 빠르게 만들기.
 
-다운로드:	 [http://pqrs.org/macosx/keyremap4macbook/](http://pqrs.org/macosx/keyremap4macbook/)
+다운로드:	 [https://pqrs.org/osx/karabiner/](https://pqrs.org/osx/karabiner/)
 
 	change command_r to command_r, send Delete를 해제하고
 	change command_r to command_r, 'when you type command_r only send command + space' 를 선택
 
 	Key repeat에서 wait 타임을 83 -> 30으로 변경
 
+## caps lock 을 ctrl 키로 변경
+https://pqrs.org/osx/karabiner/seil.html.en
 
 ## TotalFinder 설치 (유료)
 Mac의 이상?불편?한 finder를 개선시켜줌
 
 [http://totalfinder.binaryage.com](http://totalfinder.binaryage.com)
 
-## MS office 2011 설치 (유료)
-
 
 ## dropbox 설치
 [www.dropbox.com](https://www.dropbox.com/)
 
-## Asepsis 설치 
-mac에서 finder로 이동시 만들어지는 .DS_Store파일 생성을 막아준다
-
-[http://asepsis.binaryage.com](http://asepsis.binaryage.com)
-	
 ## Alfred 설치
 App Launcher (no gomin, go install)
 
@@ -163,10 +163,6 @@ XCode를 설치해도 되지만 XCode 안쓰는데도 2기가 짜리를 설치�
 
 [http://142.23.40.11/big/X/xcode461_cltools_10_86938245a.dmg](http://142.23.40.11/big/X/xcode461_cltools_10_86938245a.dmg)
 
-## retina twitter app
-~~레니타 맥 유저 한정~~ 이젠 공식앱도 retina 지원함
-
-~~[https://twitter.com/edincik/status/271993729760509952](https://twitter.com/edincik/status/271993729760509952)~~
 
 ## oh my zsh 설치
 shell이라면 zsh !! bash 안녕~! (but 저사양 맥북에서는 때때로 느려질때도..)
@@ -184,11 +180,6 @@ shell이라면 zsh !! bash 안녕~! (but 저사양 맥북에서는 때때로 느
 설치된 앱을 깨끗하게 지우자
 
 [freemacsoft.net/appcleaner](http://www.freemacsoft.net/appcleaner/)
-
-## QuickResApp 설치 
-화면 해상도 변경을 편하게
-
-[quickresapp.com](http://www.quickresapp.com/)
 
 ## Developer Color Picker 설치
 개발자용 컬러 피커. 색을 다루는 개발자라면!
