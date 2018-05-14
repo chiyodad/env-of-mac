@@ -1,6 +1,6 @@
-상대적이면서도 절대적인 개인취향이 반영된
+상대적이면서도 절대적인 개인취향이 반영된 
 어떤 개발자의 맥 환경을 따라 만들어본 
-맥 초보자의 환경설정 법
+맥 초보자의 환경설정 법 
 ==================
 [blog.doortts.com](http://blog.doortts.com) 으로 가시면 원본을 보실 수 있습니다.
 
@@ -196,3 +196,7 @@ finder에서 현재 폴더로 터미널 띄우기
 Markdown Editor
 
 [http://mouapp.com](http://mouapp.com)
+
+## 압축 해제 프로그램 Keka
+Keka 설치
+[http://www.kekaosx.com/en/](http://www.kekaosx.com/en/)
